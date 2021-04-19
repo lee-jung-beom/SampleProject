@@ -72,19 +72,7 @@ public class UserService {
 		return View.LOGIN;
 	}
 	
-	public int read(){
-		
-			
-		
-		return View.READ;
-	}
 	
-	public int register(){
-		
-		
-		
-		return View.REGISTER;
-	}
 	
 }
 
